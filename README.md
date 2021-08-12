@@ -7,4 +7,3 @@ I am a Software Engineer working on open source and enterprise mobile SDKs for i
 [![SwiftPlantUML](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swiftnio-in-action&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![SwiftPlantUML](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=CNIOOpenSSLFramework&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![SwiftPlantUML](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=LearningSwiftUI&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![SwiftPlantUML](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=Swift55Features&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
