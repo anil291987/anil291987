@@ -27,9 +27,9 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 
 Here are some of the projects I am leading, maintaining or simply being involved with!
 
-[![SwiftNIOInAction](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swiftnio-in-action))](https://github.com/anil291987/swiftnio-in-action)
+[![SwiftNIOInAction](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swiftnio-in-action)](https://github.com/anil291987/swiftnio-in-action)
 
-[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=netflix-clone))](https://github.com/anil291987/netflix-clone)
+[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=netflix-clone)](https://github.com/anil291987/netflix-clone)
 
 [![Swift-NIO-Transport-Services](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swift-nio-transport-services)](https://github.com/anil291987/swift-nio-transport-services)
 [![UIThreadGuard](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=UIThreadGuard)](https://github.com/anil291987/UIThreadGuard)
