@@ -8,8 +8,19 @@ Outside of coding, I love to indulge in my passions: traveling to new destinatio
 
 Thanks for dropping by, and feel free to explore more about my projects and interests!
 
-![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anil291987&count_private=true&hide=issues&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiFengKao&layout=compact)
+<a href="https://github.com/anil291987">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anil291987&theme=dark">
+  <img alt="Shows Anil's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anil291987&theme=default">
+</picture>
+</a>
+
+<a href="https://github.com/anil291987">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=dark">
+  <img alt="Shows Anil's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=default">
+</picture>
+</a>
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
@@ -29,8 +40,3 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 ## 𝙼𝚢 𝚖𝚘𝚜𝚝 𝚙𝚘𝚙𝚞𝚕𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
 Here are some of the projects I am leading, maintaining or simply being involved with!
-
-[![SwiftNIOInAction](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swiftnio-in-action)](https://github.com/anil291987/swiftnio-in-action)
-[![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=netflix-clone)](https://github.com/anil291987/netflix-clone)
-[![Swift-NIO-Transport-Services](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swift-nio-transport-services)](https://github.com/anil291987/swift-nio-transport-services)
-[![UIThreadGuard](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=UIThreadGuard)](https://github.com/anil291987/UIThreadGuard)
