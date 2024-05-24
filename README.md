@@ -1,12 +1,15 @@
 ## Hi there <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="35px"> , I'm [Anil!]()
 
-Fun fact: [Anil]() but not [A-nil]().
+**Fun fact:** [Anil]() but not [A-nil]().
 
 Welcome to my profile! I'm a passionate iOS developer dedicated to supporting open-source software initiatives. My journey in professional software development began around 2010, and I've been immersed in it ever since.
 
 Outside of coding, I love to indulge in my passions: traveling to new destinations ✈️, keeping up with the adrenaline-fueled world of F1 racing 🏎️, and constantly expanding my tech knowledge.
 
 Thanks for dropping by, and feel free to explore more about my projects and interests!
+
+![Anil's github stats](https://github-readme-stats.vercel.app/api?username=anil291987&count_private=true&hide=issues&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiFengKao&layout=compact)
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
@@ -28,8 +31,6 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 Here are some of the projects I am leading, maintaining or simply being involved with!
 
 [![SwiftNIOInAction](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swiftnio-in-action)](https://github.com/anil291987/swiftnio-in-action)
-
 [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=netflix-clone)](https://github.com/anil291987/netflix-clone)
-
 [![Swift-NIO-Transport-Services](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=swift-nio-transport-services)](https://github.com/anil291987/swift-nio-transport-services)
 [![UIThreadGuard](https://github-readme-stats.vercel.app/api/pin/?username=anil291987&repo=UIThreadGuard)](https://github.com/anil291987/UIThreadGuard)
