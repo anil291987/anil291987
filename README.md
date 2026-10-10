@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="35px"> , I'm [Anil!]()
 
-Welcome to my profile! I'm a passionate iOS developer dedicated to supporting open-source software initiatives. My journey in professional software development began around 2010, and I've been immersed in it ever since.
+Welcome to my profile! I'm a passionate Mobile and Web architect developer dedicated to supporting open-source software initiatives. My journey in professional software development began around 2010, and I've been immersed in it ever since.
 
 Outside of coding, I love to indulge in my passions: traveling to new destinations ✈️, keeping up with the adrenaline-fueled world of F1 racing 🏎️, and constantly expanding my tech knowledge.
 
