@@ -27,17 +27,18 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/objective-c-%23007ACC.svg?style=for-the-badge&logo=objectivec&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%23007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/AndroidStudio-007ACC?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4B5563.svg?style=for-the-badge)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9.svg?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-%23007ACC.svg?style=for-the-badge&logo=Xcode&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%23007ACC.svg?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%234B5563.svg?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-%230EA5E9.svg?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge)
 
 ## 𝙼𝚢 𝚖𝚘𝚜𝚝 𝚙𝚘𝚙𝚞𝚕𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
