@@ -34,6 +34,10 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-007ACC?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4B5563.svg?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9.svg?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge)
 
 ## 𝙼𝚢 𝚖𝚘𝚜𝚝 𝚙𝚘𝚙𝚞𝚕𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜
 
