@@ -6,19 +6,18 @@ Outside of coding, I love to indulge in my passions: traveling to new destinatio
 
 Thanks for dropping by, and feel free to explore more about my projects and interests!
 
-<a href="https://github.com/anil291987">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anil291987&theme=dark">
-  <img alt="Shows Anil's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anil291987&theme=default">
-</picture>
-</a>
-
-<a href="https://github.com/anil291987">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=dark">
-  <img alt="Shows Anil's GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=default">
-</picture>
-</a>
+<div align="left">
+  <!-- GitHub Streak Card (Shows your longest coding streak) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=anil291987&theme=dark&hide_border=true">
+    <img height="180em" alt="Anil's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anil291987&theme=default&hide_border=true">
+  </picture>
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=dark&hide_border=true">
+    <img height="180em" alt="Anil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anil291987&layout=compact&theme=default&hide_border=true">
+  </picture>
+</div>
 
 ## 𝙳𝚊𝚒𝚕𝚢 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
