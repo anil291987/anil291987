@@ -26,7 +26,7 @@ Thanks for dropping by, and feel free to explore more about my projects and inte
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/objective-c-%23007ACC.svg?style=for-the-badge&logo=objectivec&logoColor=white)
-![Objective-C](https://img.shields.io/badge/kotlin-%23007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23007ACC.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## 𝚂𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚏𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
